@@ -6,7 +6,7 @@ This repository contains analysis built on the fourth revision of the ECCOv4-py 
 
 The ECCOv4-py codebase contains routines that support the loading, analysis, and plotting fields of the ECCO Version 4 Ocean and Sea-Ice State Estimate. The ecco_v4_py library builds on several valuable tools such as xmitgcm, gcm, xarray, and dask.
 
-## 📺 [View the Project Walkthrough Here]()
+## 📺 [View the Project Walkthrough Here](https://youtu.be/PmrO7p4NQkU)
 
 ## 🚧 Maintenance Notice: 
 
