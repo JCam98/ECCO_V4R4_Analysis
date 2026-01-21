@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains analysis built on the fourth revision of the ECCOv4-py (MIT-licensed) codebase for analyzing sea-ice and ocean state estimates.
+This repository contains analysis built on the fourth revision of the ECCOv4-py (MIT-licensed) codebase for analyzing sea-ice and ocean state estimates obtained from the MITgcm climate model. In particular, the code was developed to render time-series and profile plots of oceanographic flux variables over the ECCO version 4 release 4 time period of 1992 - 2017. Results were compared to those obtained from well-cited climate models in the literature and to theoretical behavior.
 
 The ECCOv4-py codebase contains routines that support the loading, analysis, and plotting fields of the ECCO Version 4 Ocean and Sea-Ice State Estimate. The ecco_v4_py library builds on several valuable tools such as xmitgcm, gcm, xarray, and dask.
 
