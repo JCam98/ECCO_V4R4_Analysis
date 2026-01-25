@@ -1,4 +1,4 @@
-# ECCO_V4R4_Analysis
+# ECCO V4R4 Analysis for Sea-Ice and Ocean State Estimates
 
 ## Description
 
